@@ -1,0 +1,14 @@
+h1
+{
+	color: #444;
+}
+
+body
+{
+	margin: 50px auto;
+	max-width: 500px; 
+	line-height: 1.6;
+	font-size: 18px;
+	color: #555;
+	padding: 0;
+}
